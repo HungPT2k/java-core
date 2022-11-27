@@ -1,6 +1,0 @@
-To an An; 4 6 7
-Bui manh Dung; 3 2 1
-Tran Thuy Hong; 8 9 7
-Lai thu Nga; 8 9 10
-Nguyen Van Tuan; 4 6 5
-Nguyen xua Hai; 3 7 5
